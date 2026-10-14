@@ -8,7 +8,6 @@
 ## Steam好友列表
 | Avatar                                                                            | Name                    | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/c7a45abec3701f4cb5128acbdff319b8a43d67db.jpg) | 索尔城第一蛋糕                 | [76561199769768654](https://steamcommunity.com/profiles/76561199769768654/) | ❌           | 2025-12-14 11:30:12 | 2026-10-14 23:59:37 |          |
 | ![](https://avatars.steamstatic.com/5b2e90b83b69a9d04cedaf01292cb289a2faabe0.jpg) | 罗蕾莱lorelei              | [76561198451065291](https://steamcommunity.com/profiles/76561198451065291/) | ✅           | 2024-10-25 12:08:06 |                     |          |
 | ![](https://avatars.steamstatic.com/3e7b3e27cddd2fc06c10aa746b1d366b9f431051.jpg) | ℛ𝒾𝓃𝒶𝓈𝒸𝒾𝓂                | [76561199262227422](https://steamcommunity.com/profiles/76561199262227422/) | ✅           | 2025-12-14 10:49:02 |                     |          |
 | ![](https://avatars.steamstatic.com/be56a359ff0e6048c492f192380f5a6ebd7bff9b.jpg) | LEICEBY                 | [76561199075345779](https://steamcommunity.com/profiles/76561199075345779/) | ✅           | 2025-11-23 11:17:34 |                     |          |
